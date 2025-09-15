@@ -1,11 +1,8 @@
 
 ---
 
-### LICENSE  
-اعملي ملف جديد اسمه `LICENSE`  
-واكتبي فيه:  
+### LICENSE
 
-```text
 MIT License
 
 Copyright (c) 2025 Shahd Ahmed
