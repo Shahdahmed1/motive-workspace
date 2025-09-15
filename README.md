@@ -5,7 +5,7 @@ I created this project to practice front-end development and turn a Figma design
 
 ---
   🔗 Live Demo  
-[https://motive-workspace.netlify.app](https://motive-workspace.netlify.app)
+ [https://shahdahmed1.github.io/motive-workspace/](https://shahdahmed1.github.io/motive-workspace/)
 ---
  🎨 Original Design  
 - Figma Design: [Workspace Landing Page](https://www.figma.com/community/file/1483084355146957997/workspace-landing-page)
