@@ -6,7 +6,9 @@ I created this project to practice front-end development and turn a Figma design
 ---
 
 ## 🔗 Live Demo  
-[https://Shahdahmed1.github.io/motive-workspace/](https://Shahdahmed1.github.io/motive-workspace/)  
+## 🔗 Live Demo  
+[https://motive-workspace.netlify.app](https://motive-workspace.netlify.app)
+
 
 ---
 
