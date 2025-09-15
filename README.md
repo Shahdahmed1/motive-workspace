@@ -21,7 +21,7 @@ I created this project to practice front-end development and turn a Figma design
 ---
 
 🗂️ File Structure  
-.
+ .
 ├── index.html
 ├── style.css
 ├── script.js
@@ -29,8 +29,7 @@ I created this project to practice front-end development and turn a Figma design
 ├── README.md
 ├── LICENSE
 └── .gitignore
-
-
+  
 ---
 
 🚀 Run Locally  
