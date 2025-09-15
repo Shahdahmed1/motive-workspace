@@ -23,11 +23,17 @@ I created this project to practice front-end development and turn a Figma design
 🗂️ File Structure  
  .
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── images/
+
 ├── README.md
+
 ├── LICENSE
+
 └── .gitignore
   
 ---
