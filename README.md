@@ -1,7 +1,7 @@
 Motive Workspace — Landing Page
 ![Website Screenshot](images/motive-workspace.png)
 This is a simple and responsive **landing page** I built using **HTML, CSS, JavaScript, and Bootstrap 5** based on a public Figma design.  
-I created this project to practice front-end development and turn a Figma design into a real, working page.
+I created this project to practice front-end development and turn a Figma design into a real working page.
 
 ---
   🔗 Live Demo  
