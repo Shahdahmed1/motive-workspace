@@ -1,21 +1,17 @@
-# Motive Workspace — Landing Page
+Motive Workspace — Landing Page
 
 This is a simple and responsive **landing page** I built using **HTML, CSS, JavaScript, and Bootstrap 5** based on a public Figma design.  
 I created this project to practice front-end development and turn a Figma design into a real, working page.
 
 ---
-
-## 🔗 Live Demo  
-[https://Shahdahmed1.github.io/motive-workspace/](https://Shahdahmed1.github.io/motive-workspace/)  
-
+  🔗 Live Demo  
+[https://motive-workspace.netlify.app](https://motive-workspace.netlify.app)
 ---
-
-## 🎨 Original Design  
+ 🎨 Original Design  
 - Figma Design: [Workspace Landing Page](https://www.figma.com/community/file/1483084355146957997/workspace-landing-page)
 
 ---
-
-## 💡Features  
+ 💡Features  
 - Responsive design built with **Bootstrap 5**  
 - Hero section with **email form** and validation  
 - Local images/icons inside the `images/` folder  
@@ -24,7 +20,7 @@ I created this project to practice front-end development and turn a Figma design
 
 ---
 
-## 🗂️ File Structure  
+🗂️ File Structure  
 .
 ├── index.html
 ├── style.css
@@ -37,7 +33,7 @@ I created this project to practice front-end development and turn a Figma design
 
 ---
 
-## 🚀 Run Locally  
+🚀 Run Locally  
 
 1. **Clone or download the repository**  
    ```bash
@@ -107,7 +103,7 @@ Add analytics or tracking (optional).
 
 Improve SEO with Open Graph / Twitter Card tags.
 
- ## 👩‍💻 About Me  
+ 👩‍💻 About Me  
 
 I’m Shahd Ahmed, a Software Tester with a keen interest in Front-End Development .I enjoy exploring how web applications work from both the quality assurance and the user interface side. This project is part of my learning journey to enhance my front-end skills and deliver better testing and user experiences.  
 
